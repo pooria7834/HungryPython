@@ -2,11 +2,15 @@ my_dict = {}
 my_dict = [
     {
         "name": "mamadshop",
-        "goods": []
+        "goods": ["milk","salt","hobobat","kiksmaks"] 
     },
     {  
         "name": "asgarshop",
-        "goods": []
+        "goods": ["kimdi","felfel","tkhmemorg"]
     }
+    {
+        "name": "abbasshop",
+        "goods": ["chebs","pofak","hobobat","kopol"] 
+    },
 ]
 
