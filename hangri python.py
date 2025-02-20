@@ -20,8 +20,9 @@ def search_items ():
     shop = "mamadshop","asgarshop","abbasshop"
     mahsol = "milk","salt","hobobat","kiksmaks","kimdi","felfel","tkhmemorg","asal","chebs","pofak","hobobat","kopol"
     if mahsol in shop ():
-        if item in supermarket[mahsol]:
+        if mahsol in supermarket[shop]:
             print('your mahsol is in len(shop)')
         elif():
             print('your mahsol peyda nasod')
+
               
